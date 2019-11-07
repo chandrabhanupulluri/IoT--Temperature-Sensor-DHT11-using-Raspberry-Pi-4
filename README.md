@@ -8,6 +8,9 @@ IoT caught my attention, I have been reading articles, videos etc about IoT and 
 2. DHT 11 temperature sensor 
 3. Connecting wires 
 4. Cloud (I used ThingSpeak) Register
+5. dht11-temp.py contains the code which connects to ThingSpeak via 
+API with subscribed key.
+
 
 
 

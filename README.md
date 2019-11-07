@@ -7,7 +7,9 @@ IoT caught my attention, I have been reading articles, videos etc about IoT and 
 1. Raspberry Pi (any version is fine but I bought Pi 4) 
 2. DHT 11 temperature sensor 
 3. Connecting wires 
-4. Cloud (I used ThingSpeak)
+4. Cloud (I used ThingSpeak) Register
+
+
 
 
 
